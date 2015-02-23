@@ -62,6 +62,7 @@ public class MainActivity extends ActionBarActivity {
             View rootView = inflater.inflate(R.layout.fragment_main, container, false);
             return rootView;
             //Teste Git
+            // Teste Git 2
         }
     }
 }
